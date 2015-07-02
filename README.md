@@ -26,6 +26,12 @@ Define two images
     $image1 = 'img-path/image1.jpg';
     $image2 = 'img-path/image2.jpg';
     
+![image1](https://cloud.githubusercontent.com/assets/1681620/8474547/78a59206-20ce-11e5-8abb-a129c377452a.jpg)
+![image2](https://cloud.githubusercontent.com/assets/1681620/8474548/78c6b544-20ce-11e5-904a-ccfd379c248e.jpg)
+
+    
+    
+    
 Get width and height of first image.
 
     list($width, $height) = getimagesize($image1);
